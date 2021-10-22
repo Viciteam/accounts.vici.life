@@ -2,6 +2,7 @@
  - Holds Authentication for users on the vici platform
 
 # API Documentation
+- This API uses GraphQL implementation instead of the usual REST
 
 ## Several Code Examples:
 
